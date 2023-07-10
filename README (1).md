@@ -12,4 +12,4 @@ CSS
 JAVASCRIPT
 
 ## Github  link of website
-https://github.com/Vaishwanavi/quiz.git
+https://github.com/Vaishwanavi/quiz
